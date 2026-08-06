@@ -1,0 +1,14 @@
+---
+description: Only work GitHub issues marked agent-accessible unless the user explicitly overrides
+alwaysApply: true
+---
+
+# Agent-accessible issues
+
+When asked to work from a GitHub issue (or when choosing issues to implement):
+
+1. Check labels on the issue.
+2. If the issue has the `agent` label, you may proceed.
+3. If the issue has the `no-agent` label, do **not** implement it unless the user explicitly asks you to work that issue anyway.
+4. If the issue has neither label, ask whether to proceed before making changes.
+5. Prefer issues that include a completed **Agent accessible** checklist from the issue template.
