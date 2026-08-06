@@ -52,3 +52,10 @@ assignees: ""
 - [ ]
 
 <!-- (Optional) Paste Cypress screen recordings or screenshots -->
+
+## Agent accessible
+
+<!-- Apply one label on the issue: `agent` or `no-agent` -->
+
+- [ ] Yes — suitable for an agent (`agent`)
+- [ ] No — human only (`no-agent`)

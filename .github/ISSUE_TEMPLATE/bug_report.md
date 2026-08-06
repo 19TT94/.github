@@ -40,3 +40,9 @@ assignees: ""
 
 <!-- Any suspected cause or context -->
 
+## Agent accessible
+
+<!-- Apply one label on the issue: `agent` or `no-agent` -->
+
+- [ ] Yes — suitable for an agent (`agent`)
+- [ ] No — human only (`no-agent`)
